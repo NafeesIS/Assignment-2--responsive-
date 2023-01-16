@@ -170,6 +170,7 @@
     }
     .title-2 p{
         font-size: small;
+        text-align: left;
     }
     
 }
@@ -265,6 +266,10 @@
         border: 1px solid orange;
     border-radius: 10px;
         /* transform: translateX(70%); */
+    }
+    .icons h2,p{
+        font-size: small;
+        
     }
 }
 .box-content{
