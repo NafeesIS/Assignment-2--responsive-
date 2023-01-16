@@ -272,6 +272,31 @@
         
     }
 }
+@media screen and (min-width: 577px) and (max-width: 992px){
+    .box-content{
+
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       
+        background-color: orange;
+        
+        border: 1px solid orange;
+    border-radius: 10px;
+    }
+    .box{
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: orange;
+
+        border: 1px solid orange;
+    border-radius: 10px;
+        
+    }
+}
 .box-content{
 
     
