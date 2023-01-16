@@ -24,7 +24,6 @@
     margin-right: 50px;
     position:relative;
   
-
 }
 @media screen and (max-width: 576px) {
     .nav1{
@@ -40,6 +39,7 @@
 
 
     .nav2{
+        display: grid;
         text-decoration: none;
         color: black;
         margin-right: 5px;
